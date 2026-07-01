@@ -21,3 +21,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+/LangChain_RAG/*.env
+/LangChain_RAG/.idea
+/从0搭建Agent
+/LangChain_RAG/__pycache__
+/LangChain_RAG/RAG/__pycache__
