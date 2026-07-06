@@ -26,3 +26,6 @@ TestResults.xml
 /从0搭建Agent
 /LangChain_RAG/__pycache__
 /LangChain_RAG/RAG/__pycache__
+/LangChain_RAG/Tools/__pycache__
+/LangChain_RAG/.codegraph
+/LangChain_RAG/Middleware/__pycache__
