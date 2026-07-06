@@ -18,6 +18,7 @@ class DesensitizeDataMiddleware(AgentMiddleware):
             (r"(\+86)?1[3-9]\d{9}", "[PHONE]"),
         ]
 
+    # 脱敏处理
     def desensitize_text(self, text: str) -> str:
         print(f"脱敏前----->>：{text}")
         original_text = text
